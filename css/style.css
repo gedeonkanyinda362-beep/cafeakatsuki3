@@ -97,6 +97,9 @@ body {
     font-weight: 700;
     color: var(--color-white);
     cursor: pointer;
+    max-width:140px;
+    Width:120px;
+    height:auto;
 }
 
 .logo i {
