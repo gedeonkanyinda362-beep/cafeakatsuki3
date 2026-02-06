@@ -90,10 +90,11 @@ body {
 }
 
 .logo {
-   
+    align-items:center;
     cursor: pointer;
     max-height:60px;
     Width:auto;
+    display:flex;
     
 }
 
